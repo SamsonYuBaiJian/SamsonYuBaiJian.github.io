@@ -1,4 +1,5 @@
 name: Samson Yu
 header_pages:
+  - index.html
   - about.md
 theme: minima

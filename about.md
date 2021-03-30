@@ -1,5 +1,5 @@
 ---
-title: Samson Yu
+title: About
 layout: default
 ---
 

@@ -7,6 +7,4 @@ header_pages:
   - datasets.md
   - projects.md
 theme: minima
-minima:
-  social_links:
-    twitter: SamsonYuBaiJian
+twitter_username: SamsonYuBaiJian

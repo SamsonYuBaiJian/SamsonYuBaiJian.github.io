@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Samson Yu
 layout: default
 permalink: /
 ---

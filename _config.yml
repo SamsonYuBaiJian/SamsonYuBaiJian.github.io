@@ -5,4 +5,5 @@ header_pages:
   - welcome.md
   - research.md
   - projects.md
+  - contact.md
 theme: minima

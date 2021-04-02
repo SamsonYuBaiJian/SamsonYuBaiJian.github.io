@@ -2,7 +2,7 @@ name: Samson Yu
 title: null
 header_pages:
   - index.html
-  - home.md
+  - main.md
   - publications.md
   - datasets.md
   - projects.md

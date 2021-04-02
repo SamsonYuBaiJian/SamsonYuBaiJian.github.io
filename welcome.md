@@ -15,7 +15,7 @@ I am a Research Officer in [DeCLaRe Lab](https://declare-lab.net/) at the [Singa
 
 Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/) under [Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en) and an Undergraduate Research Assistant under [Ioannis Panageas](https://panageas.github.io/) at SUTD.
 
-I did my undergraduate studies in computing at SUTD under the [Information Systems Technology and Design](https://istd.sutd.edu.sg/) (ISTD) pillar and graduated in 2020.
+I did my undergraduate studies in Computer Science at SUTD under the [Information Systems Technology and Design](https://istd.sutd.edu.sg/) (ISTD) pillar and graduated in 2020.
 
 # Research Interests
 I am interested in [embodied AI](https://embodied-ai.org/), knowledge graphs and multimodal machine learning!

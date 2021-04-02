@@ -6,5 +6,7 @@ header_pages:
   - publications.md
   - datasets.md
   - projects.md
+  - awards.md
 theme: minima
 twitter_username: SamsonYuBaiJian
+github_username: SamsonYuBaiJian

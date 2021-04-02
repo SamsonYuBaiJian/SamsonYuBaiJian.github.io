@@ -1,13 +1,13 @@
 ---
-title: null
+title: Welcome
 layout: default
 permalink: /
 ---
 
 # About Me
-I am a Research Officer in [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD) under [Soujanya Poria](https://sporia.info/).
+I am a Research Officer in [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD) under [Soujanya Poria](https://sporia.info/)!
 
-Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/) and an Undergraduate Research Assistant under [Ioannis Panageas](https://panageas.github.io/) at SUTD.
+Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/) under [Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en) and an Undergraduate Research Assistant under [Ioannis Panageas](https://panageas.github.io/) at SUTD.
 
 I did my undergraduate studies in computing at SUTD under the [Information Systems Technology and Design](https://istd.sutd.edu.sg/) (ISTD) pillar and graduated in 2020.
 

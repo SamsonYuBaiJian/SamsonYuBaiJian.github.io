@@ -4,6 +4,8 @@ layout: default
 permalink: /
 ---
 
+<img src="assets/images/image.JPG" width="200" height="200">
+
 # About Me
 I am a Research Officer in [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD) under [Soujanya Poria](https://sporia.info/).
 

@@ -2,11 +2,9 @@ name: Samson Yu
 title: null
 header_pages:
   - index.html
-  - main.md
+  - about.md
   - publications.md
   - datasets.md
   - projects.md
   - awards.md
 theme: minima
-twitter_username: SamsonYuBaiJian
-github_username: SamsonYuBaiJian

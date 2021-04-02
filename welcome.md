@@ -4,6 +4,8 @@ layout: default
 permalink: /
 ---
 
+![image](/assets/images/image.JPG)
+
 # About Me
 I am a Research Officer in [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD) under [Soujanya Poria](https://sporia.info/).
 
@@ -14,7 +16,7 @@ I did my undergraduate studies in computing at SUTD under the [Information Syste
 # Research Interests
 I am interested in [embodied AI](https://embodied-ai.org/), knowledge graphs and multimodal machine learning!
 
-I hope to explore grounded language learning and embodied AI tasks the involve language in the upcoming years.
+I hope to explore grounded language learning and embodied AI tasks with language in the upcoming years.
 
 # Contact
 [Email](mailto:samson_yu@sutd.edu.sg) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)

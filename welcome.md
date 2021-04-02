@@ -1,11 +1,11 @@
 ---
-title: About
+title: null
 layout: default
 permalink: /
 ---
 
-# Welcome!
-I am a Research Officer in [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD) under [Soujanya Poria](https://sporia.info/).
+# About Me
+I am a Research Officer in [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD) under [Soujanya Poria](https://sporia.info/)!
 
 Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/) under [Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en) and an Undergraduate Research Assistant under [Ioannis Panageas](https://panageas.github.io/) at SUTD.
 
@@ -18,6 +18,7 @@ I hope to explore grounded language learning and embodied AI tasks the involve l
 
 # Find Me
 [Email](mailto:samson_yu@sutd.edu.sg)
+
 [GitHub](https://github.com/SamsonYuBaiJian)
 [Twitter](https://twitter.com/SamsonYuBaiJian)
 [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)

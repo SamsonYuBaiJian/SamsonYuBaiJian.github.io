@@ -3,8 +3,9 @@ title: null
 header_pages:
   - index.html
   - welcome.md
-  - research.md
+  - publications.md
   - projects.md
 theme: minima
-social_links:
-  twitter: SamsonYuBaiJian
+minima:
+  social_links:
+    twitter: SamsonYuBaiJian

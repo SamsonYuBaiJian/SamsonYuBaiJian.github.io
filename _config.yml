@@ -2,8 +2,9 @@ name: Samson Yu
 title: null
 header_pages:
   - index.html
-  - welcome.md
+  - about.md
   - publications.md
+  - datasets.md
   - projects.md
 theme: minima
 minima:

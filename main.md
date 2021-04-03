@@ -8,7 +8,7 @@ permalink: /
   <link rel="stylesheet" href="styles.css">
 </head>
 
-<img src="assets/images/image.JPG" alt="image" width="200" height="200" class="center">
+<img src="assets/images/image.JPG" alt="image" width="200" height="200">
 
 CV / [Email](mailto:samson_yu@sutd.edu.sg) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 

@@ -41,5 +41,3 @@ Jiafei Duan, **Samson Yu**, Hui Li Tn, Cheston Tan<br />
 # Datasets
 
 # Projects
-
-# Awards

@@ -1,6 +1,6 @@
 ---
 title: null
-layout: main
+layout: default
 permalink: /
 ---
 

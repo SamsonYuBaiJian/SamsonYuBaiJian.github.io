@@ -18,7 +18,7 @@ I am interested in social robotics, human-robot interaction and social cognition
 
 # Research
 ## 2021
-[Aspect Sentiment Triplet Extraction using Reinforcement Learning]<br />
+Aspect Sentiment Triplet Extraction using Reinforcement Learning<br />
 **Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
 *CIKM 2021*<br />
 [code](https://github.com/declare-lab/ASTE-RL)

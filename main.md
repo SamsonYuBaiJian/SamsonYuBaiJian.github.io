@@ -14,19 +14,29 @@ Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/), wor
 
 I did my undergraduate studies in [computer science](https://istd.sutd.edu.sg/) at SUTD and graduated in 2020 with Honours with Distinction.
 
-I am interested in [embodied AI](https://embodied-ai.org/), knowledge graphs and multimodal machine learning! I hope to explore grounded language learning and embodied AI tasks with language in the upcoming years.
+I am interested in social robotics, human-robot interaction and social cognition in [embodied AI](https://embodied-ai.org/).
 
 # Research
 ## 2021
+[Aspect Sentiment Triplet Extraction using Reinforcement Learning]<br />
+**Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
+*CIKM 2021*<br />
+[code](https://github.com/declare-lab/ASTE-RL)
+
+SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments<br />
+Jiafei Duan, **Samson Yu**, Cheston Tan<br />
+*ICCV 2021 Workshop on Simulation Technology for Embodied AI*<br />
+[code](https://github.com/jiafei1224/SPACE)
+
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Hongyuan Zhu, Cheston Tan<br />
-*arXiv 2021*<br />
+*Computer Vision and Image Understanding*<br />
 [paper](https://arxiv.org/abs/2103.04918)
 
 ## 2020
 [Recognizing Emotion Cause in Conversations](https://arxiv.org/abs/2012.11820)<br />
 Soujanya Poria, Navonil Majumder, Devamanyu Hazarika, Deepanway Ghosal, Rishabh Bhardwaj, **Samson Yu**, Romila Ghosh, Niyati Chhaya, Alexander Gelbukh, Rada Mihalcea<br />
-*arXiv 2020*<br />
+*Cognitive Computation*<br />
 [paper](https://arxiv.org/abs/2012.11820) / [code](https://github.com/declare-lab/RECCON)
 
 [ActioNet: An Interactive End-To-End Platform For Task-Based Data Collection And Augmentation In 3D Environment](https://arxiv.org/abs/2010.01357)<br />

@@ -30,7 +30,7 @@ Jiafei Duan, **Samson Yu**, Cheston Tan<br />
 
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Hongyuan Zhu, Cheston Tan<br />
-*Computer Vision and Image Understanding*<br />
+*arXiv 2021*<br />
 [paper](https://arxiv.org/abs/2103.04918)
 
 ## 2020

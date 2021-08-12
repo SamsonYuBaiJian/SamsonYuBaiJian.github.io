@@ -12,7 +12,7 @@ I am a Research Officer in the [DeCLaRe Lab](https://declare-lab.net/) at the [S
 
 Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/), working with [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en), and an Undergraduate Research Assistant at SUTD, working with [Prof. Ioannis Panageas](https://panageas.github.io/).
 
-I did my undergraduate studies in [computer science](https://istd.sutd.edu.sg/) at SUTD and graduated in 2020 with Honours with Distinction.
+I did my undergraduate studies in [computer science at SUTD](https://istd.sutd.edu.sg/) and graduated in 2020 with Honours with Distinction.
 
 I am interested in embodied social cognition, spanning the fields of social robotics and human-robot interaction.
 

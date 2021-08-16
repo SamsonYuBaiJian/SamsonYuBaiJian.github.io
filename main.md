@@ -21,12 +21,12 @@ I am interested in embodied social cognition, spanning the fields of social robo
 Aspect Sentiment Triplet Extraction using Reinforcement Learning<br />
 **Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
 *CIKM 2021*<br />
-[paper](https://declare-lab.net/assets/pdfs/ASTE_RL_CIKM_2021_FINAL.pdf) / [code](https://github.com/declare-lab/ASTE-RL)
+[paper](https://arxiv.org/abs/2108.06107) / [code](https://github.com/declare-lab/ASTE-RL)
 
 SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments<br />
 Jiafei Duan, **Samson Yu**, Cheston Tan<br />
 *ICCV 2021 Workshop on Simulation Technology for Embodied AI*<br />
-[code](https://github.com/jiafei1224/SPACE)
+[paper](https://arxiv.org/abs/2108.06180) / [code](https://github.com/jiafei1224/SPACE)
 
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Hongyuan Zhu, Cheston Tan<br />

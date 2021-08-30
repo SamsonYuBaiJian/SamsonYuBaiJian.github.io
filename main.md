@@ -45,3 +45,5 @@ Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
 [paper](https://arxiv.org/abs/2010.01357) / [code](https://github.com/SamsonYuBaiJian/actionet) / [video](https://www.youtube.com/watch?v=nZAegJgGe8E)
 
 # Projects
+- REDRO
+- Video frame interpolation

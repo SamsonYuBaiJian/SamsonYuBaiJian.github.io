@@ -18,14 +18,14 @@ I am interested in embodied social cognition, spanning the fields of social robo
 
 # Research
 ## 2021
-Aspect Sentiment Triplet Extraction using Reinforcement Learning<br />
+[Aspect Sentiment Triplet Extraction using Reinforcement Learning](https://arxiv.org/abs/2108.06107)<br />
 **Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
 *CIKM 2021*<br />
 [paper](https://arxiv.org/abs/2108.06107) / [code](https://github.com/declare-lab/ASTE-RL)
 
-SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments<br />
+[SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/abs/2108.06180)<br />
 Jiafei Duan, **Samson Yu**, Cheston Tan<br />
-*ICCV 2021 Workshop on Simulation Technology for Embodied AI*<br />
+*ICCV 2021 Workshop on Simulation Technology for Embodied AI (Spotlight)*<br />
 [paper](https://arxiv.org/abs/2108.06180) / [code](https://github.com/jiafei1224/SPACE)
 
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />

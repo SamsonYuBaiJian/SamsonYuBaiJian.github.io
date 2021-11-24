@@ -14,7 +14,7 @@ Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/), wor
 
 I did my undergraduate studies in [computer science at SUTD](https://istd.sutd.edu.sg/) and graduated in 2020 with Honours with Distinction.
 
-I am interested in embodied social cognition, spanning the fields of social robotics and human-robot interaction.
+I am interested in knowledge and social intelligence in AI, spanning the fields of embodied AI, social robotics and human-robot interaction.
 
 # Research
 ## 2021

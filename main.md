@@ -20,30 +20,29 @@ I am interested in knowledge and social intelligence in AI, spanning the fields 
 ## 2021
 [Aspect Sentiment Triplet Extraction using Reinforcement Learning](https://arxiv.org/abs/2108.06107)<br />
 **Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
-*CIKM 2021*<br />
+*ACM International Conference on Information and Knowledge Management (CIKM) 2021*<br />
 [paper](https://arxiv.org/abs/2108.06107) / [code](https://github.com/declare-lab/ASTE-RL)
 
 [SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/abs/2108.06180)<br />
 Jiafei Duan, **Samson Yu**, Cheston Tan<br />
-*ICCV 2021 Workshop on Simulation Technology for Embodied AI (Spotlight)*<br />
+*IEEE International Conference on Computer Vision (ICCV) 2021, Simulation Technology for Embodied AI (SEAI) Workshop (Spotlight)*<br />
 [paper](https://arxiv.org/abs/2108.06180) / [code](https://github.com/jiafei1224/SPACE)
 
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Hongyuan Zhu, Cheston Tan<br />
-*arXiv 2021*<br />
+*IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) 2021*<br />
 [paper](https://arxiv.org/abs/2103.04918)
 
 ## 2020
 [Recognizing Emotion Cause in Conversations](https://arxiv.org/abs/2012.11820)<br />
 Soujanya Poria, Navonil Majumder, Devamanyu Hazarika, Deepanway Ghosal, Rishabh Bhardwaj, **Samson Yu**, Romila Ghosh, Niyati Chhaya, Alexander Gelbukh, Rada Mihalcea<br />
-*Cognitive Computation*<br />
+*Cognitive Computation 2021*<br />
 [paper](https://arxiv.org/abs/2012.11820) / [code](https://github.com/declare-lab/RECCON)
 
 [ActioNet: An Interactive End-To-End Platform For Task-Based Data Collection And Augmentation In 3D Environment](https://arxiv.org/abs/2010.01357)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
-*ICIP 2020*<br />
+*IEEE International Conference for Image Processing (ICIP) 2020*<br />
 [paper](https://arxiv.org/abs/2010.01357) / [code](https://github.com/SamsonYuBaiJian/actionet) / [video](https://www.youtube.com/watch?v=nZAegJgGe8E)
 
 # Projects
 - REDRO
-- Video frame interpolation

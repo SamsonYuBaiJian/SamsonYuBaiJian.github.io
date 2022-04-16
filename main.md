@@ -8,9 +8,12 @@ permalink: /
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Email](mailto:samson_yu@sutd.edu.sg) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
-I am a Research Officer in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), working with [Prof. Soujanya Poria](https://sporia.info/).
+I am a Research Engineer at the Agency for Science, Technology and Research (A*STAR) in Singapore, working with Dr. Cheston Tan. 
 
-Previously, I was a Research Intern at [A*STAR](https://www.a-star.edu.sg/), working with [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en), and an Undergraduate Research Assistant at SUTD, working with [Prof. Ioannis Panageas](https://panageas.github.io/).
+Previously, I held these positions:
+- Research Officer in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), working with [Prof. Soujanya Poria](https://sporia.info/)
+- Research Intern at [A*STAR](https://www.a-star.edu.sg/), working with [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en)
+- Undergraduate Research Assistant at SUTD, working with [Prof. Ioannis Panageas](https://panageas.github.io/)
 
 I did my undergraduate studies in [computer science at SUTD](https://istd.sutd.edu.sg/) and graduated in 2020 with Honours with Distinction.
 

@@ -20,6 +20,12 @@ I did my undergraduate studies in [computer science at SUTD](https://istd.sutd.e
 I am interested in knowledge and social intelligence in AI, spanning the fields of embodied AI, social robotics and human-robot interaction.
 
 # Research
+## 2022
+[Single Image Video Prediction with Auto-Regressive GANs](https://www.mdpi.com/1424-8220/22/9/3533)<br />
+ Jiahui Huang, Yew Ken Chia, **Samson Yu**, Kevin Yee, Dennis Küster, Eva G. Krumhuber, Dorien Herremans, Gemma Roig<br />
+*Sensors*<br />
+[paper](https://www.mdpi.com/1424-8220/22/9/3533)
+
 ## 2021
 [Aspect Sentiment Triplet Extraction using Reinforcement Learning](https://arxiv.org/abs/2108.06107)<br />
 **Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
@@ -33,7 +39,7 @@ Jiafei Duan, **Samson Yu**, Cheston Tan<br />
 
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Hongyuan Zhu, Cheston Tan<br />
-*IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) 2021*<br />
+*IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)*<br />
 [paper](https://arxiv.org/abs/2103.04918)
 
 ## 2020

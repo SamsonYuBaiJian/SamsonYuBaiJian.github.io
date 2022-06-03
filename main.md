@@ -21,6 +21,10 @@ I am interested in knowledge and social intelligence in AI, spanning the fields 
 
 # Research
 ## 2022
+ABCDE: An Agent-Based Cognitive Development Environment<br />
+Jieyi Ye, Jiafei Duan, **Samson Yu**, Bihan Wen, Cheston Tan<br />
+*IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2022, Embodied AI Workshop*<br />
+
 [Single Image Video Prediction with Auto-Regressive GANs](https://www.mdpi.com/1424-8220/22/9/3533)<br />
  Jiahui Huang, Yew Ken Chia, **Samson Yu**, Kevin Yee, Dennis Küster, Eva G. Krumhuber, Dorien Herremans, Gemma Roig<br />
 *Sensors*<br />

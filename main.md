@@ -17,7 +17,7 @@ Previously, I held these positions:
 
 I did my undergraduate studies in [computer science at SUTD](https://istd.sutd.edu.sg/) and graduated in 2020 with Honours with Distinction.
 
-I am interested in knowledge and social intelligence in AI, spanning the fields of embodied AI, social robotics and human-robot interaction.
+I am interested in the intersection between artificial intelligence and human-robot interaction.
 
 # Research
 ## 2022
@@ -57,5 +57,5 @@ Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
 *IEEE International Conference for Image Processing (ICIP) 2020*<br />
 [paper](https://arxiv.org/abs/2010.01357) / [code](https://github.com/SamsonYuBaiJian/actionet) / [video](https://www.youtube.com/watch?v=nZAegJgGe8E)
 
-# Projects
-- REDRO
+<!-- # Projects
+- REDRO -->

@@ -8,7 +8,7 @@ permalink: /
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
-I am a Research Engineer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) in Singapore, working with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan). I will be heading to the [National University of Singapore](https://nus.edu.sg/) for their Master of Computing programme with the AI specialization.
+I am a Research Engineer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) in Singapore, working with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan). I will be heading to the [National University of Singapore](https://nus.edu.sg/) for their [Master of Computing programme with the AI specialization](https://www.comp.nus.edu.sg/programmes/pg/mai) in Fall 2022.
 
 Previously, I held these positions:
 - Research Officer in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), working with [Prof. Soujanya Poria](https://sporia.info/).

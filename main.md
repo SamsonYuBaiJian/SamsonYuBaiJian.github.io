@@ -8,7 +8,7 @@ permalink: /
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
-I am a Research Engineer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) in Singapore, working with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan). 
+I am a Research Engineer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) in Singapore, working with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan). I will be heading to the [National University of Singapore](https://nus.edu.sg/) for their Master of Computing programme with the AI specialization.
 
 Previously, I held these positions:
 - Research Officer in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), working with [Prof. Soujanya Poria](https://sporia.info/).
@@ -21,7 +21,17 @@ I am interested in the intersection between artificial intelligence and human-ro
 
 # Research
 ## 2022
-ABCDE: An Agent-Based Cognitive Development Environment<br />
+[BOSS: A Benchmark for Human Belief Prediction in Object-context Scenarios](https://arxiv.org/abs/2206.10665)<br />
+Jiafei Duan*, **Samson Yu***, Nicholas Tan, Li Yi, Cheston Tan<br />
+arXiv preprint
+[paper](https://arxiv.org/abs/2206.10665) / [code](https://github.com/SamsonYuBaiJian/boss)
+
+[Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation](https://arxiv.org/abs/2206.10606)<br />
+Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />
+arXiv preprint
+[paper](https://arxiv.org/abs/2206.10606)
+
+[ABCDE: An Agent-Based Cognitive Development Environment](https://embodied-ai.org/papers/2022/1.pdf)<br />
 Jieyi Ye, Jiafei Duan, **Samson Yu**, Bihan Wen, Cheston Tan<br />
 *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2022, Embodied AI Workshop*<br />
 
@@ -31,13 +41,18 @@ Jieyi Ye, Jiafei Duan, **Samson Yu**, Bihan Wen, Cheston Tan<br />
 [paper](https://www.mdpi.com/1424-8220/22/9/3533)
 
 ## 2021
+[PIP: Physical Interaction Prediction via Mental Simulation with Span Selection](https://arxiv.org/abs/2109.04683)<br />
+Jiafei Duan*, **Samson Yu***, Soujanya Poria, Bihan Wen, Cheston Tan<br />
+arXiv preprint
+[paper](https://arxiv.org/abs/2109.04683)
+
 [Aspect Sentiment Triplet Extraction using Reinforcement Learning](https://arxiv.org/abs/2108.06107)<br />
 **Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
 *ACM International Conference on Information and Knowledge Management (CIKM) 2021*<br />
 [paper](https://arxiv.org/abs/2108.06107) / [code](https://github.com/declare-lab/ASTE-RL)
 
 [SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/abs/2108.06180)<br />
-Jiafei Duan, **Samson Yu**, Cheston Tan<br />
+Jiafei Duan*, **Samson Yu***, Cheston Tan<br />
 *IEEE International Conference on Computer Vision (ICCV) 2021, Simulation Technology for Embodied AI (SEAI) Workshop (Spotlight)*<br />
 [paper](https://arxiv.org/abs/2108.06180) / [code](https://github.com/jiafei1224/SPACE)
 
@@ -59,3 +74,5 @@ Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
 
 <!-- # Projects
 - REDRO -->
+
+<!-- # Collaborators -->

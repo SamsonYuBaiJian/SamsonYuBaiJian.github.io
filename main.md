@@ -22,7 +22,7 @@ I am interested in the intersection between artificial intelligence and human-ro
 # Research
 ## 2022
 [BOSS: A Benchmark for Human Belief Prediction in Object-context Scenarios](https://arxiv.org/abs/2206.10665)<br />
-Jiafei Duan*, **Samson Yu**\*, Nicholas Tan, Li Yi, Cheston Tan<br />
+Jiafei Duan\*, **Samson Yu**\*, Nicholas Tan, Li Yi, Cheston Tan<br />
 arXiv preprint
 [paper](https://arxiv.org/abs/2206.10665) / [code](https://github.com/SamsonYuBaiJian/boss)
 
@@ -42,7 +42,7 @@ Jieyi Ye, Jiafei Duan, **Samson Yu**, Bihan Wen, Cheston Tan<br />
 
 ## 2021
 [PIP: Physical Interaction Prediction via Mental Simulation with Span Selection](https://arxiv.org/abs/2109.04683)<br />
-Jiafei Duan*, **Samson Yu**\*, Soujanya Poria, Bihan Wen, Cheston Tan<br />
+Jiafei Duan\*, **Samson Yu**\*, Soujanya Poria, Bihan Wen, Cheston Tan<br />
 arXiv preprint
 [paper](https://arxiv.org/abs/2109.04683)
 
@@ -52,7 +52,7 @@ arXiv preprint
 [paper](https://arxiv.org/abs/2108.06107) / [code](https://github.com/declare-lab/ASTE-RL)
 
 [SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/abs/2108.06180)<br />
-Jiafei Duan*, **Samson Yu**\*, Cheston Tan<br />
+Jiafei Duan\*, **Samson Yu**\*, Cheston Tan<br />
 *IEEE International Conference on Computer Vision (ICCV) 2021, Simulation Technology for Embodied AI (SEAI) Workshop (Spotlight)*<br />
 [paper](https://arxiv.org/abs/2108.06180) / [code](https://github.com/jiafei1224/SPACE)
 

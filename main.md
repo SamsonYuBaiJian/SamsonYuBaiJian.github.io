@@ -23,12 +23,12 @@ I am interested in the intersection between artificial intelligence and human-ro
 ## 2022
 [BOSS: A Benchmark for Human Belief Prediction in Object-context Scenarios](https://arxiv.org/abs/2206.10665)<br />
 Jiafei Duan\*, **Samson Yu**\*, Nicholas Tan, Li Yi, Cheston Tan<br />
-arXiv preprint
+arXiv preprint<br />
 [paper](https://arxiv.org/abs/2206.10665) / [code](https://github.com/SamsonYuBaiJian/boss)
 
 [Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation](https://arxiv.org/abs/2206.10606)<br />
 Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />
-arXiv preprint
+arXiv preprint<br />
 [paper](https://arxiv.org/abs/2206.10606)
 
 [ABCDE: An Agent-Based Cognitive Development Environment](https://embodied-ai.org/papers/2022/1.pdf)<br />
@@ -43,7 +43,7 @@ Jieyi Ye, Jiafei Duan, **Samson Yu**, Bihan Wen, Cheston Tan<br />
 ## 2021
 [PIP: Physical Interaction Prediction via Mental Simulation with Span Selection](https://arxiv.org/abs/2109.04683)<br />
 Jiafei Duan\*, **Samson Yu**\*, Soujanya Poria, Bihan Wen, Cheston Tan<br />
-arXiv preprint
+arXiv preprint<br />
 [paper](https://arxiv.org/abs/2109.04683)
 
 [Aspect Sentiment Triplet Extraction using Reinforcement Learning](https://arxiv.org/abs/2108.06107)<br />

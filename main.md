@@ -11,9 +11,9 @@ permalink: /
 I am a Research Engineer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) in Singapore, working with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan). I will be heading to the [National University of Singapore](https://nus.edu.sg/) for their [Master of Computing programme with the AI specialization](https://www.comp.nus.edu.sg/programmes/pg/mai) in Fall 2022.
 
 Previously, I held these positions:
-- Research Officer in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), working with [Prof. Soujanya Poria](https://sporia.info/).
-- Research Intern at [A*STAR](https://www.a-star.edu.sg/), working with [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).
-- Undergraduate Research Assistant at SUTD, working with [Prof. Ioannis Panageas](https://panageas.github.io/).
+- Research Officer in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), worked with [Prof. Soujanya Poria](https://sporia.info/).
+- Research Intern at [A*STAR](https://www.a-star.edu.sg/), worked with [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).
+- Undergraduate Research Assistant at SUTD, worked with [Prof. Ioannis Panageas](https://panageas.github.io/).
 
 I did my undergraduate studies in [computer science at SUTD](https://istd.sutd.edu.sg/) and graduated in 2020 with Honours with Distinction.
 

@@ -53,7 +53,7 @@ arXiv preprint<br />
 [paper](https://arxiv.org/abs/2108.06107) / [code](https://github.com/declare-lab/ASTE-RL)
 
 [SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/abs/2108.06180)<br />
-Jiafei Duan\*, **Samson Yu**\*, Cheston Tan<br />
+Jiafei Duan, **Samson Yu**, Cheston Tan<br />
 *IEEE International Conference on Computer Vision (ICCV) 2021, Simulation Technology for Embodied AI (SEAI) Workshop (Spotlight)*<br />
 [paper](https://arxiv.org/abs/2108.06180) / [code](https://github.com/jiafei1224/SPACE)
 

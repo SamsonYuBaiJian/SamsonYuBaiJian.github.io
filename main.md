@@ -43,7 +43,7 @@ Jieyi Ye, Jiafei Duan, **Samson Yu**, Bihan Wen, Cheston Tan<br />
 ## 2021
 [PIP: Physical Interaction Prediction via Mental Simulation with Span Selection](https://arxiv.org/abs/2109.04683)<br />
 Jiafei Duan\*, **Samson Yu**\*, Soujanya Poria, Bihan Wen, Cheston Tan<br />
-*European Conference on Computer Vision 2022*<br />
+*European Conference on Computer Vision (ECCV) 2022*<br />
 [paper](https://arxiv.org/abs/2109.04683)
 
 [Aspect Sentiment Triplet Extraction using Reinforcement Learning](https://arxiv.org/abs/2108.06107)<br />

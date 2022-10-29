@@ -8,15 +8,12 @@ permalink: /
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
-I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/).
+I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/). I am interested in the intersection between artificial intelligence and human-robot interaction.
 
 Previously, I held these positions:
-- Research Engineer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), working with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan).
+- Researcher at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), worked with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan) and [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).
 - Researcher in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), worked with [Prof. Soujanya Poria](https://sporia.info/).
-- Researcher at [A*STAR](https://www.a-star.edu.sg/), worked with [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).
 - Computer science undergraduate student at [SUTD](https://istd.sutd.edu.sg/), graduated with Honours with Distinction.
-
-I am interested in the intersection between artificial intelligence and human-robot interaction.
 
 # Research
 ## 2022
@@ -74,5 +71,3 @@ Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
 
 <!-- # Projects
 - REDRO -->
-
-<!-- # Collaborators -->

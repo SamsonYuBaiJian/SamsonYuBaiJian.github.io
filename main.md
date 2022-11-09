@@ -68,6 +68,3 @@ Soujanya Poria, Navonil Majumder, Devamanyu Hazarika, Deepanway Ghosal, Rishabh 
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
 *IEEE International Conference for Image Processing (ICIP) 2020*<br />
 [paper](https://arxiv.org/abs/2010.01357) / [code](https://github.com/SamsonYuBaiJian/actionet) / [video](https://www.youtube.com/watch?v=nZAegJgGe8E)
-
-<!-- # Projects
-- REDRO -->

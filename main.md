@@ -8,7 +8,7 @@ permalink: /
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
-I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/). I am interested in the intersection between artificial intelligence and human-robot interaction.
+I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/). I am interested in the intersection between self-supervised learning, world models and object-centric representations for robotics.
 
 Previously, I held these positions:
 - Researcher at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), worked with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan) and [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).
@@ -68,3 +68,14 @@ Soujanya Poria, Navonil Majumder, Devamanyu Hazarika, Deepanway Ghosal, Rishabh 
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
 *IEEE International Conference for Image Processing (ICIP) 2020*<br />
 [paper](https://arxiv.org/abs/2010.01357) / [code](https://github.com/SamsonYuBaiJian/actionet) / [video](https://www.youtube.com/watch?v=nZAegJgGe8E)
+
+
+# Concept Collection
+In this section, I catalog interesting concepts/terms from research papers to help me remember them and spark ideas with lateral thinking. I also list their source(s) and a short summary of each concept. Feel free to reach out to me and let me know if I get any of them wrong.
+
+- Reward learning (https://arxiv.org/abs/2212.04717)
+- Social MDP (https://arxiv.org/abs/2110.10298)
+- Reasoning about actions and change (https://arxiv.org/abs/2212.03866)
+- Correspondence learning (learn a mapping between
+state, action pairs of agents of different dynamics or embodiments): https://arxiv.org/abs/2203.00904
+- Rule hierarchy ()

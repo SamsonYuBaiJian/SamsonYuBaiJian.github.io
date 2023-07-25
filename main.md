@@ -8,7 +8,7 @@ permalink: /
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
-I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/). I am interested in the intersection between self-supervised learning, world models and object-centric representations for robotics.
+I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/) and a researcher in the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/) working with [Prof. Harold Soh](https://haroldsoh.com/). I am interested in structured representation learning and representational alignment for robot learning.
 
 Previously, I held these positions:
 - Researcher at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), worked with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan) and [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).
@@ -16,16 +16,17 @@ Previously, I held these positions:
 - Computer science undergraduate student at [SUTD](https://istd.sutd.edu.sg/), graduated with Honours with Distinction.
 
 # Research
+## 2023
+[Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation](https://arxiv.org/abs/2206.10606)<br />
+Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />
+*Ubiquitous Robots 2023 [Best Paper Award]*<br />
+[paper](https://arxiv.org/abs/2206.10606)
+
 ## 2022
 [BOSS: A Benchmark for Human Belief Prediction in Object-context Scenarios](https://arxiv.org/abs/2206.10665)<br />
 Jiafei Duan\*, **Samson Yu**\*, Nicholas Tan, Li Yi, Cheston Tan<br />
 arXiv preprint<br />
 [paper](https://arxiv.org/abs/2206.10665) / [code](https://github.com/SamsonYuBaiJian/boss)
-
-[Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation](https://arxiv.org/abs/2206.10606)<br />
-Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />
-arXiv preprint<br />
-[paper](https://arxiv.org/abs/2206.10606)
 
 [ABCDE: An Agent-Based Cognitive Development Environment](https://embodied-ai.org/papers/2022/1.pdf)<br />
 Jieyi Ye, Jiafei Duan, **Samson Yu**, Bihan Wen, Cheston Tan<br />
@@ -50,7 +51,7 @@ Jiafei Duan\*, **Samson Yu**\*, Soujanya Poria, Bihan Wen, Cheston Tan<br />
 
 [SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/abs/2108.06180)<br />
 Jiafei Duan, **Samson Yu**, Cheston Tan<br />
-*IEEE International Conference on Computer Vision (ICCV) 2021, Simulation Technology for Embodied AI (SEAI) Workshop (Spotlight)*<br />
+*IEEE International Conference on Computer Vision (ICCV) 2021, Simulation Technology for Embodied AI (SEAI) Workshop [Spotlight]*<br />
 [paper](https://arxiv.org/abs/2108.06180) / [code](https://github.com/jiafei1224/SPACE)
 
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />

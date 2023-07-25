@@ -4,7 +4,7 @@ layout: default
 permalink: /
 ---
 
-<img src="assets/images/image.JPG" alt="image" width="200" height="200">
+<img src="assets/images/image.jpg" alt="image" width="200" height="200">
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
@@ -22,7 +22,7 @@ Previously, I held these positions:
 [Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation](https://arxiv.org/abs/2206.10606)<br />
 Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />
 *Ubiquitous Robots 2023 [Best Paper Award]*<br />
-[paper](https://arxiv.org/abs/2206.10606)
+[paper](https://arxiv.org/abs/2206.10606) / [code](https://github.com/jennyzzt/good_time_to_ask)
 
 ## 2022
 [BOSS: A Benchmark for Human Belief Prediction in Object-context Scenarios](https://arxiv.org/abs/2206.10665)<br />

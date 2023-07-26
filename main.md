@@ -8,12 +8,13 @@ permalink: /
 
 <p align="center">
     <img src="assets/images/display_image.jpg" alt="Display picture" height="200">
-    [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [GitHub](https://github.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 </p>
 
-I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/) and a researcher in the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/) working with [Prof. Harold Soh](https://haroldsoh.com/).
+[CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [GitHub](https://github.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
 I am interested in structured representation learning and representational alignment for robot learning.
+
+I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/) and a researcher in the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/) working with [Prof. Harold Soh](https://haroldsoh.com/).
 
 Previously, I held these positions:
 - Researcher at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), worked with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan) and [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).

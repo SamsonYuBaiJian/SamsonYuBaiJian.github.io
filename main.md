@@ -7,7 +7,7 @@ permalink: /
 <!-- <img src="assets/images/image.jpg" alt="image" width="200" height="200"> -->
 
 <p align="center">
-    <img src="./assets/images/image.jpg" alt="Display picture">
+    <img src="./assets/images/image.jpg" alt="Display picture" />
 </p>
 
 [CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [GitHub](https://github.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)

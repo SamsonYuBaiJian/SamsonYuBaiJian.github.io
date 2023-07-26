@@ -4,9 +4,13 @@ layout: default
 permalink: /
 ---
 
-<img src="assets/images/image.jpg" alt="image" width="200" height="200">
+<!-- <img src="assets/images/image.jpg" alt="image" width="200" height="200"> -->
 
-[CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [GitHub](https://github.com/SamsonYuBaiJian) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
+<p align="center">
+    <img width="200" src="assets/images/image.jpg" alt="Display picture">
+</p>
+
+[CV](https://SamsonYuBaiJian.github.io/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en) / [Twitter](https://twitter.com/SamsonYuBaiJian) / [GitHub](https://github.com/SamsonYuBaiJian) / [LinkedIn](https://www.linkedin.com/in/samsonyubaijian/)
 
 I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/) and a researcher in the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/) working with [Prof. Harold Soh](https://haroldsoh.com/).
 

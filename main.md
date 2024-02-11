@@ -14,7 +14,7 @@ permalink: /
     <a href="https://SamsonYuBaiJian.github.io/cv.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en">Google Scholar</a> / <a href="https://twitter.com/SamsonYuBaiJian">Twitter</a> / <a href="https://github.com/SamsonYuBaiJian">GitHub</a> / <a href="https://www.linkedin.com/in/samsonyubaijian/">LinkedIn</a>
 </p>
 
-I am interested in visuo-tactile perception and structured representation learning for robot learning.
+I am interested in visuo-tactile perception and structured representation learning (currently object-centric and intuitive physics) for robot learning.
 
 I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/) and a researcher in the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/) working with [Prof. Harold Soh](https://haroldsoh.com/).
 

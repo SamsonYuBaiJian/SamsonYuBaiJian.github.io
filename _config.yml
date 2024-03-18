@@ -3,4 +3,4 @@ name: null
 header_pages:
   - index.html
   - main.md
-theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll

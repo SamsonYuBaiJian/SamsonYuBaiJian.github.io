@@ -1,6 +1,6 @@
-name: null
 title: Samson Yu
+name: null
 header_pages:
   - index.html
   - main.md
-theme: minima
+theme: mmistakes/minimal-mistakes

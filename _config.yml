@@ -3,4 +3,6 @@ name: null
 header_pages:
   - index.html
   - main.md
-remote_themes: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+remote_theme: mmistakes/minimal-mistakes@4.24.0

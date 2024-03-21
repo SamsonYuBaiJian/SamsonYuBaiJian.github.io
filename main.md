@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+related: false
 ---
 
 I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/) and a researcher in the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/) working with [Prof. Harold Soh](https://haroldsoh.com/).

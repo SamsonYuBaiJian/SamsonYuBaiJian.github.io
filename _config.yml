@@ -101,9 +101,9 @@ analytics:
 author:
   name             : "Samson Yu"
   avatar           : /assets/images/profile_picture.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : " "
   location         : "Singapore, Singapore"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -111,15 +111,15 @@ author:
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file"
       url: /cv.pdf
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/samsonyubaijian/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/SamsonYuBaiJian # url: "https://github.com/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/SamsonYuBaiJian # url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/samsonyubaijian/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "/cv.pdf"

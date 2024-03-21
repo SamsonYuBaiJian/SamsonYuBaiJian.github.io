@@ -4,12 +4,6 @@ layout: default
 permalink: /
 ---
 
-<!-- <img src="assets/images/image.jpg" alt="image" width="200" height="200"> -->
-
-<p align="center">
-    <img src="assets/images/display_image.jpg" alt="Display picture" height="200">
-</p>
-
 <p align="center">
     <a href="https://SamsonYuBaiJian.github.io/cv.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en">Google Scholar</a> / <a href="https://twitter.com/SamsonYuBaiJian">Twitter</a> / <a href="https://github.com/SamsonYuBaiJian">GitHub</a> / <a href="https://www.linkedin.com/in/samsonyubaijian/">LinkedIn</a>
 </p>

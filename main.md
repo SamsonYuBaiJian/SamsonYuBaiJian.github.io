@@ -1,15 +1,14 @@
 ---
-title: "About Me"
+title: ""
 permalink: /
 author_profile: true
 related: false
-atom_feed:
-  hide: true
 ---
 
+# About Me
 I am broadly interested in applied machine learning research in impactful fields, such as robotics or biotechnology.
 
-I am currently a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/)
+I am currently a Master of Computing (AI Specialisation) student at the National University of Singapore.
 
 I also work with [Prof. Harold Soh](https://haroldsoh.com/) from the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/).
 
@@ -22,23 +21,23 @@ Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />
 
 [PIP: Physical Interaction Prediction via Mental Simulation with Span Selection](https://arxiv.org/abs/2109.04683)<br />
 Jiafei Duan\*, **Samson Yu**\*, Soujanya Poria, Bihan Wen, Cheston Tan<br />
-*European Conference on Computer Vision (ECCV) 2022*<br />
+*ECCV 2022*<br />
 
 [Aspect Sentiment Triplet Extraction using Reinforcement Learning](https://arxiv.org/abs/2108.06107)<br />
 **Samson Yu**, Tapas Nayak, Navonil Majumder, Soujanya Poria<br />
-*ACM International Conference on Information and Knowledge Management (CIKM) 2021*<br />
+*CIKM 2021*<br />
 [code](https://github.com/declare-lab/ASTE-RL)
 
 [SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/abs/2108.06180)<br />
 Jiafei Duan, **Samson Yu**, Cheston Tan<br />
-*IEEE International Conference on Computer Vision (ICCV) 2021, Simulation Technology for Embodied AI (SEAI) Workshop [Spotlight]*<br />
+*ICCV 2021, Simulation Technology for Embodied AI (SEAI) Workshop [Spotlight]*<br />
 [code](https://github.com/jiafei1224/SPACE)
 
 [A Survey Of Embodied AI: From Simulator To Research Tasks](https://arxiv.org/abs/2103.04918)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Hongyuan Zhu, Cheston Tan<br />
-*IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)*<br />
+*TETCI*<br />
 
 [ActioNet: An Interactive End-To-End Platform For Task-Based Data Collection And Augmentation In 3D Environment](https://arxiv.org/abs/2010.01357)<br />
 Jiafei Duan, **Samson Yu**, Hui Li Tan, Cheston Tan<br />
-*IEEE International Conference for Image Processing (ICIP) 2020*<br />
+*ICIP 2020*<br />
 [code](https://github.com/SamsonYuBaiJian/actionet) / [video](https://www.youtube.com/watch?v=nZAegJgGe8E)

@@ -102,8 +102,8 @@ author:
   name             : "Samson Yu"
   avatar           : /assets/images/profile_picture.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
-    "Artificial Intelligence"
-    "Machine Learning"
+    Artificial Intelligence
+    Machine Learning
   location         : "Singapore"
   email            :
   links:

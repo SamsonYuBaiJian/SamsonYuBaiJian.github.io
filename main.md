@@ -1,7 +1,6 @@
 ---
-title: null
-layout: single
 permalink: /
+author_profile: true
 ---
 
 <p align="center">

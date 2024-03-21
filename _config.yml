@@ -112,7 +112,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "CV"
       icon: "fas fa-fw fa-file"
-      url: /
+      url: /cv.pdf
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "/cv.pdf"

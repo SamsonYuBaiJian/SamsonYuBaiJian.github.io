@@ -1,10 +1,12 @@
 ---
+title: "About Me"
 permalink: /
 author_profile: true
 related: false
+atom_feed:
+  hide: true
 ---
 
-# About Me
 I am broadly interested in applied machine learning research in impactful fields, such as robotics or biotechnology.
 
 I am currently a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/)

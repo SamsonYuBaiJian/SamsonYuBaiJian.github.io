@@ -3,18 +3,14 @@ permalink: /
 author_profile: true
 ---
 
-<!-- <p align="center">
-    <a href="https://SamsonYuBaiJian.github.io/cv.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=pYb0xhAAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.linkedin.com/in/samsonyubaijian/">LinkedIn</a>
-</p> -->
-
 I am a Master of Computing (AI Specialization) student at the [National University of Singapore](https://nus.edu.sg/) and a researcher in the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/) working with [Prof. Harold Soh](https://haroldsoh.com/).
 
-Previously, I held these positions:
+<!-- Previously, I held these positions:
 - Researcher at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), worked with [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan) and [Dr. Zhu Hongyuan](https://scholar.google.com/citations?user=XTk3sYAAAAAJ&hl=en).
 - Researcher in the [DeCLaRe Lab](https://declare-lab.net/) at the [Singapore University of Technology and Design](https://sutd.edu.sg/) (SUTD), worked with [Prof. Soujanya Poria](https://sporia.info/).
-- Computer science undergraduate student at [SUTD](https://istd.sutd.edu.sg/), graduated with Honours with Distinction.
+- Computer science undergraduate student at [SUTD](https://istd.sutd.edu.sg/), graduated with Honours with Distinction. -->
 
-# Research
+# Publications
 ## 2023
 [Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation](https://arxiv.org/abs/2206.10606)<br />
 Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />

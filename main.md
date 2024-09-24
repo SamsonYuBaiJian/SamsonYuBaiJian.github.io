@@ -17,7 +17,7 @@ I also work with [Prof. Harold Soh](https://haroldsoh.com/) from the [Collaborat
 [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/abs/2405.02794)<br />
 **Samson Yu**, Kelvin Lin, Anxing Xiao, Jiafei Duan, Harold Soh<br />
 *RSS 2024*<br />
-[code / dataset](https://github.com/clear-nus/octopi)<br />
+[code + dataset](https://github.com/clear-nus/octopi)<br />
 
 [Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation](https://arxiv.org/abs/2206.10606)<br />
 Jenny Zhang, **Samson Yu**, Jiafei Duan, Cheston Tan<br />

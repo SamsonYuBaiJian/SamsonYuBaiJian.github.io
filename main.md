@@ -10,7 +10,7 @@ I am interested in AI/ML research for medicine and science.
 
 I am an incoming PhD student (starting January 2025) at NUS Medicine with [Prof. Dianbo Liu](https://www.cogai4sci.com/).
 
-Before this, I earned a Master of Computing (AI Specialization) from National University of Singapore and a Bachelor of Engineering (Information Systems Technology and Design) with Honors (Distinction) from Singapore University of Technology and Design.
+Before this, I earned a Master of Computing (AI Specialization) from NUS and a Bachelor of Engineering (Information Systems Technology and Design) with Honors (Distinction) from SUTD.
 
 I currently work with [Prof. Harold Soh](https://haroldsoh.com/) from the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/).
 

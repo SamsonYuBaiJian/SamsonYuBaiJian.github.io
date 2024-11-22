@@ -6,11 +6,13 @@ related: false
 ---
 
 # About Me
-I am broadly interested in applied machine learning research in the biomedical sciences.
+I am interested in AI/ML research for medicine and science.
+
+I am an incoming PhD student at NUS Medicine with [Prof. Dianbo Liu](https://www.cogai4sci.com/).
 
 Before this, I earned a Master of Computing (AI Specialization) from National University of Singapore and a Bachelor of Engineering (Information Systems Technology and Design) with Honors (Distinction) from Singapore University of Technology and Design.
 
-I also work with [Prof. Harold Soh](https://haroldsoh.com/) from the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/).
+I currently work with [Prof. Harold Soh](https://haroldsoh.com/) from the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/).
 
 
 # Selected Publications

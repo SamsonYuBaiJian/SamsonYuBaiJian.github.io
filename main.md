@@ -6,9 +6,9 @@ related: false
 ---
 
 # About Me
-Hi! I am a PhD student at NUS Medicine with [Prof. Dianbo Liu](https://www.cogai4sci.com/) working on applied AI/ML research for biomedicine.
+Hi! I am a PhD student with [Prof. Dianbo Liu](https://www.cogai4sci.com/) at NUS Medicine. I work on applied AI/ML research for biomedicine.
 
-Before this, I earned a Master of Computing (AI Specialization) from NUS and a Bachelor of Engineering (ISTD) with Honors (Distinction) from SUTD.
+Before this, I earned a Master of Computing (AI Specialization) from NUS.
 
 I am always open for collaboration / chatting, drop me an email at samson.yu \[at\] u.nus.edu if you are interested!
 

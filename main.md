@@ -6,9 +6,9 @@ related: false
 ---
 
 # About Me
-I am interested in AI/ML research for biomedicine.
+Hi!
 
-I am a PhD student at NUS Medicine with [Prof. Dianbo Liu](https://www.cogai4sci.com/).
+I am a PhD student at NUS Medicine with [Prof. Dianbo Liu](https://www.cogai4sci.com/) working on applied AI/ML research for biomedicine.
 
 Before this, I earned a Master of Computing (AI Specialization) from NUS and a Bachelor of Engineering (Information Systems Technology and Design) with Honors (Distinction) from SUTD.
 

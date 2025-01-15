@@ -6,13 +6,13 @@ related: false
 ---
 
 # About Me
-I am interested in AI/ML research for medicine and science.
+I am interested in AI/ML research for biomedicine.
 
-I am an incoming PhD student (starting January 2025) at NUS Medicine with [Prof. Dianbo Liu](https://scholar.google.com/citations?user=kGSzBpMAAAAJ&hl=en) from the [Cognitive AI for Science (CogAI4Sci) team](https://www.cogai4sci.com/).
+I am a PhD student at NUS Medicine with [Prof. Dianbo Liu](https://www.cogai4sci.com/).
 
 Before this, I earned a Master of Computing (AI Specialization) from NUS and a Bachelor of Engineering (Information Systems Technology and Design) with Honors (Distinction) from SUTD.
 
-I currently work with [Prof. Harold Soh](https://haroldsoh.com/) from the [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io/).
+I am always open for collaboration / chatting, drop me an email at samson.yu \[at\] u.nus.edu if you are interested!
 
 
 # Selected Publications

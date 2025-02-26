@@ -6,11 +6,11 @@ related: false
 ---
 
 # About Me
-Hi! I am a PhD student with [Prof. Dianbo Liu](https://www.cogai4sci.com/) at [NUS Medicine](https://medicine.nus.edu.sg/). I work on applied AI/ML research for biomedicine.
+Hi! I am a PhD student with [Prof. Dianbo Liu](https://www.cogai4sci.com/) at [NUS Medicine](https://medicine.nus.edu.sg/).
 
-Before this, I earned a [Master of Computing (AI Specialization)](https://www.comp.nus.edu.sg/programmes/pg/mai/) from NUS.
+My primary research focus is scientific AI agents from single-agent and multi-agent perspectives. I am interested in applying this capability for scientific discoveries in ageing research.
 
-I am always open for collaboration / chatting, drop me an email at samson.yu \[at\] u.nus.edu if you are interested!
+Before this, I earned a [Master of Computing (AI Specialisation)](https://www.comp.nus.edu.sg/programmes/pg/mai/) from NUS.
 
 
 # Selected Publications

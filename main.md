@@ -8,7 +8,7 @@ related: false
 # About Me
 Hi! I am a PhD student with [Prof. Dianbo Liu](https://www.cogai4sci.com/) at [NUS Medicine](https://medicine.nus.edu.sg/).
 
-My primary research focus is scientific AI agents and neuroscience-inspired AI. I am interested in applying these capabilities for scientific discoveries in ageing research.
+I'm interested in automated scientific discoveries using AI, and especially applying this for aging research.
 
 Before this, I earned a [Master of Computing (AI Specialisation)](https://www.comp.nus.edu.sg/programmes/pg/mai/) from NUS.
 

@@ -6,9 +6,9 @@ related: false
 ---
 
 # About Me
-Hi! I am a PhD student with [Prof. Dianbo Liu](https://www.cogai4sci.com/) at [NUS Medicine](https://medicine.nus.edu.sg/).
+Hi! I am a PhD student with [Prof. Dianbo Liu](https://www.asintelligence.xyz/) at [NUS Medicine](https://medicine.nus.edu.sg/).
 
-I'm interested in automated scientific discoveries using AI, and especially applying this for aging research.
+I'm interested in automated scientific discoveries using AI, especially for aging research.
 
 Before this, I earned a [Master of Computing (AI Specialisation)](https://www.comp.nus.edu.sg/programmes/pg/mai/) from NUS.
 

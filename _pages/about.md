@@ -32,7 +32,7 @@ latest_posts:
 My research interests are **AI-assisted scientific discovery** (ideation, experimentation, analysis) and **longevity**.
 
 I'm currently fascinated by these questions:
-- How can world models improve ideation and experiment selection?
+- How can foundation and/or world models improve ideation and experiment selection?
 - What areas of longevity have the most room for AI-assisted improvements?
 - How can we build an effective automated wet lab?
 

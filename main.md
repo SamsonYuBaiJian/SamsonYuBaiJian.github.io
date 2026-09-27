@@ -5,15 +5,15 @@ author_profile: true
 related: false
 ---
 
-# About Me
-Hi! I am a PhD student with [Prof. Dianbo Liu](https://www.asintelligence.xyz/) at [NUS Medicine](https://medicine.nus.edu.sg/).
+# about me
+I'm interested in **AI-assisted scientific discovery** (ideation, experimentation, analysis) and **longevity research**.
 
-I'm interested in automated scientific discoveries using AI, especially for aging research.
+I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI Specialisation) from NUS, and a BEng (ISTD) from the Singapore University of Technology and Design (SUTD).
 
-Before this, I earned a [Master of Computing (AI Specialisation)](https://www.comp.nus.edu.sg/programmes/pg/mai/) from NUS.
+I treat music (e.g. piano, singing, music production, songwriting) as a form of [serious leisure](https://www.seriousleisure.net/) for creative expression, and participate in my local Plum Village community for spirituality.
 
 
-# Selected Publications
+# selected publications
 [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/abs/2405.02794)<br />
 **Samson Yu**, Kelvin Lin, Anxing Xiao, Jiafei Duan, Harold Soh<br />
 *RSS 2024*<br />

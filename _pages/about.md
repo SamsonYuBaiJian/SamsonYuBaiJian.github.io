@@ -38,12 +38,10 @@ My research interests are **AI-assisted scientific discovery** (ideation, experi
 - How can foundation and/or world models improve research ideation and experiment selection?
 - What areas of longevity have the most room for AI-assisted improvements?
 - How can we build an effective automated wet lab?
-<br>
 
-I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
-<br>
+<br>I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
 
-Outside of research, I treat music (making music, playing piano, singing) as [serious leisure](https://www.seriousleisure.net/) for emotional wellbeing, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
+<br>Outside of research, I treat music (making music, playing piano, singing) as [serious leisure](https://www.seriousleisure.net/) for emotional wellbeing, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

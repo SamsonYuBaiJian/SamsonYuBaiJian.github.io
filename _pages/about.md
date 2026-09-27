@@ -29,11 +29,16 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-My research interests are **AI-assisted scientific discovery** (ideation, experimentation, analysis), **longevity**, and their intersection.
+My research interests are **AI-assisted scientific discovery** (ideation, experimentation, analysis) and **longevity**.
 
-I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, and a BEng (Information Systems Technology and Design) from SUTD.
+I'm currently fascinated by these questions:
+- How can world models improve ideation and experiment selection?
+- What areas of longevity have the most room for AI-assisted improvements?
+- How can we build an effective automated wet lab?
 
-Outside of research, I treat music (piano, singing, music production, songwriting) as [serious leisure](https://www.seriousleisure.net/) for emotional expression, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing.
+I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS and a BEng (ISTD) from SUTD.
+
+Outside of research, I treat music (piano, singing, music production, songwriting) as [serious leisure](https://www.seriousleisure.net/) for emotional expression and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

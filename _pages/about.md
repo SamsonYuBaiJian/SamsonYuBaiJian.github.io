@@ -31,12 +31,12 @@ latest_posts:
 
 My research interests are **AI-assisted scientific discovery** (ideation, experimentation) and **longevity**. 🧬
 
-I'm currently fascinated by these research questions:
+<p style="margin-bottom: 0;">I'm currently fascinated by these research questions:</p>
 - How can foundation and/or world models improve research ideation and experiment selection?
 - What areas of longevity have the most room for AI-assisted improvements?
 - How can we build an effective automated wet lab?
 
-I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
+<br>I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
 
 Outside of research, I treat music (playing piano, singing, making music) as [serious leisure](https://www.seriousleisure.net/) for emotional wellbeing, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
 

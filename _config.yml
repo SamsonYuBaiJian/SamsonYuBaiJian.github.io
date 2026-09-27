@@ -279,6 +279,7 @@ plugins:
   - jekyll-terser
   - jekyll-toc
   - jekyll-twitter-plugin
+  - jekyll-include-cache
   - jemoji
 
   # al-folio plugins

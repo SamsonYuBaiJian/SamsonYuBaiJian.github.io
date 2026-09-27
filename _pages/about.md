@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-      <div style="width: 100%; text-align: center !important; font-family: Arial, sans-serif; font-size: 0.85rem;">
+      <div style="width: 100%; text-align: center !important; font-family: Arial, sans-serif; font-size: 1rem;">
       samson.yu [at] u.nus.edu
       </div>
   #   <p>555 your office number</p>
@@ -38,8 +38,10 @@ My research interests are **AI-assisted scientific discovery** (ideation, experi
 - How can foundation and/or world models improve research ideation and experiment selection?
 - What areas of longevity have the most room for AI-assisted improvements?
 - How can we build an effective automated wet lab?
+<br>
 
-<br>I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
+I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
+<br>
 
 Outside of research, I treat music (making music, playing piano, singing) as [serious leisure](https://www.seriousleisure.net/) for emotional wellbeing, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
 

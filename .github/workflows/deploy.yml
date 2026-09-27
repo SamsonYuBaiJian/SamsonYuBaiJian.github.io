@@ -25,7 +25,7 @@ jobs:
       - name: Set up Ruby and install Gemfile dependencies
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3"
+          ruby-version: "3.4"
           bundler-cache: true
 
       - name: Set up Python

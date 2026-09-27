@@ -36,7 +36,7 @@ I'm currently fascinated by these questions:
 - What areas of longevity have the most room for AI-assisted improvements?
 - How can we build an effective automated wet lab?
 
-I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS and a BEng (ISTD) from SUTD.
+I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
 
 Outside of research, I treat music (piano, singing, music production, songwriting) as [serious leisure](https://www.seriousleisure.net/) for emotional expression and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing.
 

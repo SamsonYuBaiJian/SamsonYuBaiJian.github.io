@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *samson.yu [at] u.nus.edu* # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "<em>samson.yu [at] u.nus.edu</em>" # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right

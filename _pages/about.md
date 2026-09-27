@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -29,11 +29,11 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I'm interested in **AI-assisted scientific discovery** (ideation, experimentation, analysis) and **longevity** research.
+My research interests are **AI-assisted scientific discovery** (ideation, experimentation, analysis), **longevity**, and their intersection.
 
-I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, and a BEng (ISTD) from SUTD.
+I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, and a BEng (Information Systems Technology and Design) from SUTD.
 
-Outside of research, I treat music (e.g. piano, singing, music production, songwriting) as a form of [serious leisure](https://www.seriousleisure.net/) for emotional expression, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing.
+Outside of research, I treat music (piano, singing, music production, songwriting) as [serious leisure](https://www.seriousleisure.net/) for emotional expression, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+
+I'm interested in **AI-assisted scientific discovery** (ideation, experimentation, analysis) and **longevity research**.
+
+I'm a PhD student at NUS Medicine, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI Specialisation) from NUS, and a BEng (ISTD) from the Singapore University of Technology and Design (SUTD).
+
+Outside of research, I treat music (e.g. piano, singing, music production, songwriting) as a form of [serious leisure](https://www.seriousleisure.net/) for creative expression, and participate in my local Plum Village community for spiritual wellbeing.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

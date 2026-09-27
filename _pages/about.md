@@ -9,9 +9,9 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-      <p style="font-size: 0.85rem; text-align: center; font-family: inherit;">
+      <div style="width: 100%; text-align: center !important; font-family: Arial, sans-serif; font-size: 0.85rem;">
       samson.yu [at] u.nus.edu
-      </p>
+      </div>
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
@@ -41,7 +41,7 @@ My research interests are **AI-assisted scientific discovery** (ideation, experi
 
 <br>I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
 
-Outside of research, I treat music (playing piano, singing, making music) as [serious leisure](https://www.seriousleisure.net/) for emotional wellbeing, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
+Outside of research, I treat music (making music, playing piano, singing) as [serious leisure](https://www.seriousleisure.net/) for emotional wellbeing, and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

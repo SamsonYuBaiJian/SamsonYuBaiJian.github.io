@@ -23,6 +23,7 @@ group :jekyll_plugins do
     gem 'jekyll-terser'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
+    gem 'jekyll-include-cache'
     gem 'jemoji'
 
     gem 'classifier-reborn'  # used for content categorization during the build

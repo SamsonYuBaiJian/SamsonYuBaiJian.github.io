@@ -41,7 +41,7 @@ My research interests are **AI-assisted scientific discovery** (ideation, experi
 
 <br>I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
 
-<br>Outside of research, I treat music (making music, playing piano, singing) as [serious leisure](https://www.seriousleisure.net/) for emotional wellbeing, mentored by [Melvin Goh](https://www.instagram.com/meowvingoh/), and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
+<br>Outside of research, I treat music (making music, playing piano, singing) as serious leisure for emotional wellbeing (mentored by [Melvin Goh](https://www.instagram.com/meowvingoh/)), and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🎵🪷
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

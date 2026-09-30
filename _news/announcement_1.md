@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-09-25
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[FML-bench](https://arxiv.org/abs/2605.17373) is accepted to the NeurIPS 2026 Evaluations & Datasets (E&D) Track! 🎉

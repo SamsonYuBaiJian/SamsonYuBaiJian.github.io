@@ -35,11 +35,11 @@ latest_posts:
 My research interest is **AI-assisted scientific discovery for longevity**. I envision a future where research agents (RA) can send ideas into cloud-based, AI-assisted wet labs for efficient and explainable experiments. 🧬
 
 <p style="margin-bottom: 0;">I'm currently fascinated by these research questions:</p>
-- Knowledge & representations: Can the way RAs choose experiments tell us about its scientific knowledge?
-- Ideation: Can thought experiments help RAs come up with creative (original and effective) ideas?
-- Experimentation: Does an explicit set of beliefs about the underlying world help agents choose informative experiments in a principled way?
-- Wet lab evaluation: What wet lab skills can be trained in simulation?
-- Longevity: Which areas in longevity research are most amenable to AI-assisted discovery?
+- **Knowledge & representations:** Can the way RAs choose experiments tell us about its scientific knowledge?
+- **Ideation:** Can thought experiments help RAs come up with creative (original and effective) ideas?
+- **Experimentation:** Does an explicit set of beliefs about the underlying world help agents choose informative experiments in a principled way?
+- **Evaluation:** What wet lab skills can be trained in simulation?
+- **Longevity:** Which areas in longevity research are most amenable to AI-assisted discovery?
 
 <br>I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
 

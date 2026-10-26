@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FML-bench](https://arxiv.org/abs/2605.17373) is accepted to the NeurIPS 2026 Evaluations & Datasets (E&D) Track! 🎉
+[FML-bench](https://arxiv.org/abs/2605.17373) has been accepted to the NeurIPS 2026 Evaluations & Datasets (E&D) Track! 🎉

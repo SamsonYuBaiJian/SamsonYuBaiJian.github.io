@@ -32,16 +32,16 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-My research interest is **AI-assisted scientific discovery for longevity**. I envision a future where research agents (RA) can send ideas into cloud-based, AI-assisted wet labs for efficient and explainable experiments. 🧬
+My research interest is **AI-assisted scientific discovery for longevity**. I envision a future where research agents (RA) can send ideas into cloud-based, AI-assisted wet labs for experimentation. 🧬
 
 <p style="margin-bottom: 0;">I'm currently fascinated by these research questions:</p>
 - **Knowledge & representations:** Can the way RAs choose experiments tell us about its scientific knowledge?
 - **Ideation:** Can thought experiments help RAs come up with creative (original and effective) ideas?
-- **Experimentation:** Does an explicit set of beliefs about the underlying world help agents choose informative experiments in a principled way?
+- **Experimentation:** Does an explicit set of principles about the underlying world help agents choose informative experiments in a principled way?
 
 I'm a **PhD student at NUS Medicine**, advised by [Dianbo Liu](https://www.asintelligence.xyz/). I hold a Master of Computing (AI) from NUS, advised by [Harold Soh](https://haroldsoh.com/), and a BEng (ISTD) from SUTD.
 
-Outside of research, I make music (alongside playing piano and singing) for emotional wellbeing (mentored by [Melvin Goh](https://www.instagram.com/meowvingoh/)) and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🧬🧘🏻‍♂️
+Outside of research, I make music (alongside playing piano and singing) for emotional wellbeing (mentored by [Melvin Goh](https://www.instagram.com/meowvingoh/)) and participate in my [local Plum Village community](https://www.joyfulgarden.sg/) for spiritual wellbeing. 🧘🏻‍♂️
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
